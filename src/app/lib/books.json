@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "price": 13.19,
+    "photo": "https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "price": 29.99,
+    "photo": "https://m.media-amazon.com/images/I/61Gs9LIHu8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Mockingjay ",
+    "author": "Suzanne Collins",
+    "price": 12.17,
+    "photo": "https://m.media-amazon.com/images/I/61n5pTMvmpL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 104,
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "price": 11.76,
+    "photo": "https://m.media-amazon.com/images/I/91Jra1QAMPL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 105,
+    "title": "The Scorch Trials",
+    "author": "James Dashner",
+    "price": 11.49,
+    "photo": "https://m.media-amazon.com/images/I/71hbDMgo6rL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 106,
+    "title": "The Death Cure",
+    "author": "James Dashner",
+    "price": 11.66,
+    "photo": "https://m.media-amazon.com/images/I/91vaqmbaF4L._AC_UF1000,1000_QL80_.jpg"
+  }
+]

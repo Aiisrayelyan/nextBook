@@ -1,0 +1,12 @@
+.bookDetail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .bookImage {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
